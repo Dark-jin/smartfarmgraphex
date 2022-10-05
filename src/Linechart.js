@@ -2,7 +2,6 @@ import Chart from 'react-apexcharts';
 import React from 'react';
 
 export default props =>{
-
     const options = {
         chart: {
             zoom: {
